@@ -1,0 +1,5 @@
+40472_7 von APPR MF Prozent NN MF Obergrenze NN MF -3 -2 1 EU-Eigenmittel NN MF -1 -1 0 könne VMFIN VC 9 1 0
+40472_20 bei APPR MF Etatblöcken NN MF Reformen NN MF -1 -1 1 angegangen VVPP VC 4 1 0
+40473_15 nach APPR MF Ansicht NN MF reduzieren VVINF VC 12 1 1
+40473_19 durch APPR MF Abkehr NN MF Ansicht NN MF -3 -2 0 SPD NE MF -1 -1 0 reduzieren VVINF VC 8 1 1
+40473_22 vom APPRART MF Subventionssystem NN MF Ansicht NN MF -6 -3 0 SPD NE MF -4 -2 0 Abkehr NN MF -1 -1 1 reduzieren VVINF VC 5 1 0
